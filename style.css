@@ -1,0 +1,24 @@
+#body{
+    background: linear-gradient(to right, #c6ffdd, #fbd786, #f7797d);
+    font-family: Ink Free;
+    font-weight: bolder;
+}
+canvas{
+    border:2px  white solid;
+border-radius: 10px;
+margin-top:400px;
+background-color:white;
+animation-name : shadow;
+animation-duration: 5s;
+animation-iteration-count: infinite;
+
+}
+#score_div{
+    float:left;
+    margin-left: 150px;
+}
+
+#timer_div{
+    float:right;
+    margin-right: 150px;
+}
